@@ -16,7 +16,15 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 3f3f984402ffae14798ceaa07e615c4c
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 56e1795c3e952be4c8d0432e2024ce61
+    m_Address: Assets/Scenes/RemoteScene.unity
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_mainAssetType: UnityEditor.SceneAsset, UnityEditor, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: bfe120fe63fe5e74294aafe673186095, type: 2}
   m_SchemaSet:

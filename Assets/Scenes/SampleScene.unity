@@ -368,11 +368,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: RemoteSceneLoader
       objectReference: {fileID: 0}
-    - target: {fileID: 5926771328994405534, guid: 07cde4cb17ed0b643b9fd2b5d88b9e1b,
-        type: 3}
-      propertyPath: remoteSceneName
-      value: Assets/Scenes/RemoteScene.unity
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 07cde4cb17ed0b643b9fd2b5d88b9e1b, type: 3}
 --- !u!1 &2073296769

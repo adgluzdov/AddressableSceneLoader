@@ -240,7 +240,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6686a72fa2d4016448d969f519dc3f25, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  remoteSceneName: 
+  remoteSceneName: Assets/Scenes/RemoteScene.unity
   mode: 0
   addressableSceneLoader: {fileID: 5926771328994405535}
   OnLoad: {fileID: 5926771328861052754}
